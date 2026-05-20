@@ -1,0 +1,4 @@
+pycryptodome
+mutagen
+wasmtime
+tkinterdnd2
