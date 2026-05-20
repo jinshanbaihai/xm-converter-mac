@@ -21,7 +21,7 @@
 
 ```
 我准备使用一个开源项目，地址：
-[https://github.com/jinshanbaihai/xm-converter-mac]
+https://github.com/jinshanbaihai/xm-converter-mac
 
 请先访问这个仓库的 README 和它的上游项目
 https://github.com/sld272/Ximalaya-XM-Decrypt
