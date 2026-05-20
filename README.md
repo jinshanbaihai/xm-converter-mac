@@ -2,7 +2,7 @@
 
 把整个专辑文件夹拖进窗口，几百集 .xm 一次全转 mp3。
 
-![screenshot](screenshots/main.png)
+![screenshot](screenshots/001.png)
 
 ## 怎么用
 
